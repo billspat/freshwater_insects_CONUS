@@ -12,3 +12,5 @@ For additional information about the types of data we are seeking, see our manus
 
 
 To submit data or ask questions about the data submission process, email Dr. Phoebe Zarnetske  <a href="mailto:plz@msu.edu">plz@msu.edu</a>
+
+A link to this repository with updated information can be found at the MSU SpaCE Lab website: www.communityecologylab.com.
