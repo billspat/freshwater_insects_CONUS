@@ -22,3 +22,4 @@ vignettes/*.html vignettes/*.pdf
 rsconnect/ .Rproj.user
 # System file from mac
 .DS_Store
+.Rproj.user
